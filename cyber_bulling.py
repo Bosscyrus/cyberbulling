@@ -95,3 +95,5 @@ print("accuracy_score")
 print(accuracy_score(y, y_pred))
 print("classification_report")
 print(classification_report(y, y_pred))
+
+# so what have done here is only meant to detect text that will serve as bully but working on both pictures and voice not identifiyer
